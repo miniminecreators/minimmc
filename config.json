@@ -1,0 +1,6 @@
+{
+	"ip":"MiniMineCreator.aternos.me",
+	"port": "25565",
+	"name": "mmcsbot",
+	"auto-night-skip":"true"
+}
